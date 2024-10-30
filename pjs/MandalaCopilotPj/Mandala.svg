@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <use href="arms.svg#group1" x="0" y="0"/>
+  <use href="arms.svg#group2" x="50" y="0"/>
+  <use href="arms.svg#group3" x="100" y="0"/>
+</svg>
