@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+
+<g id="whatever">
+	<title>Bird</title>
+	<desc>An image of a cute little green bird with an orange beak.</desc>
+	<!-- ... -->
+</g>
+
+<!-- NB open this file with live server to see what it looks like it it gold -->
+<!-- <g id="arm4" transform="rotate(-225 40 50)" x="200" y="200"       fill="white" stroke="gold" stroke-width="5" >    -->
+<g id="arm4" transform="rotate(--270 40 50)" x="200" y="200"       fill="yellow" stroke="gold" stroke-width="5" >   
+    <desc>Mndala arm 4 Rotated -180-45 == -225</desc>
+    <circle cx="40" cy="40" r="25" />;
+    <circle cx="60" cy="60" r="25" />
+    <rect x="60" y="60" width="25" height="25" /> 
+</g>
+
+
+</svg>

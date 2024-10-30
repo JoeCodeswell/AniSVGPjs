@@ -1,0 +1,29 @@
+  <!-- Too low <svg viewBox="-200 -200 400 400"   xmlns="http://www.w3.org/2000/svg"> -->
+  <!-- LOOKS CENTERED - GOOD <svg viewBox="-150 -150 400 400"   xmlns="http://www.w3.org/2000/svg"> -->
+  <svg viewBox="-150 -150 400 400"   xmlns="http://www.w3.org/2000/svg">
+
+    <g id="parrot" transform="rotate(-90 50 50)" x="200" y="200"       fill="white" stroke="green" stroke-width="5" >
+      <circle cx="40" cy="40" r="25" />;
+      <circle cx="60" cy="60" r="25" />
+      <rect x="60" y="60" width="25" height="25" />
+    </g>
+    <g id="carrott" transform="rotate(-135 45 50)" x="200" y="200"      fill="white" stroke="blue" stroke-width="5" >   
+        <circle cx="40" cy="40" r="25" />;
+        <circle cx="60" cy="60" r="25" />
+        <rect x="60" y="60" width="25" height="25" />
+    </g>
+    <g id="charriot" transform="rotate(-180 40 50)" x="200" y="200"       fill="white" stroke="red" stroke-width="5" >   
+      <circle cx="40" cy="40" r="25" />;
+      <circle cx="60" cy="60" r="25" /> 
+      <rect x="60" y="60" width="25" height="25" /> 
+    </g>
+
+
+<!-- COMMENT OUT TO WORK!No good so far - Am i udimh the correct SVG version == 2 ?? -->
+    <!-- https://www.sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/#the-use-element -->
+    <!-- <use x="200" y="200" xlink:href="MandalaArms.svg#arm4" /> -->    
+    <!-- <use x="200" y="200" xlink:href="MandalaArms.svg#arm4"></use> -->
+      <!-- <use xlink:href="sprite.svg#icon-1"></use> -->
+
+
+</svg>
