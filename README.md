@@ -4,4 +4,6 @@
 - lets create a project sub-folder
   - Up came somethingfrom shocking-cobweb & i shut it down.
     - aparently it is running the codespace :)
+This has been cloned to x123 & chbk0
+
     

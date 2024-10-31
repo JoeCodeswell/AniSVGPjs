@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <use href="arm.svg#circsq" stroke="green"                                 x="0" y="0"/>
+  <use href="arm.svg#circsq" stroke="yellow" transform="rotate(45, 50 50)"  x="0" y="0"/>
+  <use href="arm.svg#circsq" stroke="blue"   transform="rotate(90, 50 50)"  x="0" y="0"/>
+</svg>
