@@ -1,0 +1,11 @@
+<!-- <svg height="100" width="100"> -->
+  <!-- find xmlns="http://www.w3.org/2000/svg"  on https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df -->
+<!-- <svg xmlns="http://www.w3.org/2000/svg" height="100" width="100"> -->
+  <svg xmlns="http://www.w3.org/2000/svg" height="150" width="500">
+  <!-- https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_circle -->
+  <!-- <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="yellow" /> -->
+  <ellipse cx="240" cy="100" rx="220" ry="30" style="fill:red" />
+  <ellipse cx="220" cy="70" rx="190" ry="20" style="fill:lime" />
+  <ellipse cx="210" cy="45" rx="170" ry="15" style="fill:yellow" />
+  Sorry, your browser does not support inline SVG.  
+</svg>
