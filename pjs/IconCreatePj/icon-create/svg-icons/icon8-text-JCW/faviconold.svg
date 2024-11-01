@@ -1,0 +1,15 @@
+<!-- <svg height="100" width="100"> -->
+  <!-- find xmlns="http://www.w3.org/2000/svg"  on https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df -->
+  <!-- <svg xmlns="http://www.w3.org/2000/svg" height="30" width="200"> -->
+
+<svg width="150" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="green" />
+  <circle cx="75" cy="50" r="40" fill="yellow" />
+  <text x="75" y="60" font-size="30" text-anchor="middle" fill="red">JCW</text>
+</svg>
+
+<!-- <svg xmlns="http://www.w3.org/2000/svg" height="400" width="400"> -->
+  <!-- https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_text -->
+  <!-- <text x="-200" y="-200" fill="black">JCW</text> -->
+  <!-- Sorry, your browser does not support inline SVG.   -->
+<!-- </svg>  -->
